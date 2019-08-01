@@ -1,0 +1,6 @@
+[19-Aug-2015 04:50:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aasecuri/public_html/AA2000/server/index.php:49) in /home/aasecuri/public_html/AA2000/server/index.php on line 74
+[19-Aug-2015 04:50:52 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/aasecuri/public_html/AA2000/server/index.php on line 75
+[19-Aug-2015 05:08:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aasecuri/public_html/AA2000/server/index.php:49) in /home/aasecuri/public_html/AA2000/server/index.php on line 74
+[19-Aug-2015 05:09:00 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/aasecuri/public_html/AA2000/server/index.php on line 75
+[19-Aug-2015 05:18:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aasecuri/public_html/AA2000/server/index.php:49) in /home/aasecuri/public_html/AA2000/server/index.php on line 74
+[19-Aug-2015 05:18:50 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/aasecuri/public_html/AA2000/server/index.php on line 75
